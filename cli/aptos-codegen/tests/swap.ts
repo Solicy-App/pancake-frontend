@@ -1,7 +1,7 @@
 /* eslint-disable camelcase */
 import { Types } from 'aptos'
 
-export const ADDRESS = '0xc7efb4076dbe143cbcd98cfaaa929ecfc8f299203dfff63b95ccb6bfe19850fa' as const
+export const ADDRESS = '0x5a468f27581f620cf162fe415e3f52f4f4111b01639b30f573b1e95793b82cb1' as const
 
 export const SWAP_MODULE_NAME = 'swap' as const
 export const ROUTER_MODULE_NAME = 'router' as const
