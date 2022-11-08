@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@pancakeswap/uikit": "*",
-    "@pancakeswap/awgmi": "0.0.9",
+    "@pancakeswap/awgmi": "*",
     "@pancakeswap/aptos-swap-sdk": "*",
     "@pancakeswap/token-lists": "*",
     "@vercel/analytics": "^0.1.2",
