@@ -66,3 +66,5 @@ yarn turbo run build --filter=aptos-web
 | [wagmi](/packages/wagmi)                                      | Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including bsc chain and binance wallet connector            |
 | [awgmi](/packages/awgmi)                                      | connect to Aptos with similar wagmi React hooks.                                                                       |
 
+## About
+This project is maintained by [Solicy Software and Blockchain Company](https://solicy.net/?utm_source=github&utm_medium=social)
